@@ -1,0 +1,99 @@
+
+@media only screen and (max-width:600px){
+    .banner .card{
+        width: 50%;
+        grid-template-columns: repeat(1,1fr)
+    }
+    
+}
+.banner{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+.all-sections-include{
+    margin-left: 100px;
+
+}
+.top-heading h1{
+    margin-left: 100px;
+    margin-top:50px;
+    font-size:40px;
+    font-weight: 700;
+}
+.influencer-joureny-img img{
+    width: 450px;
+    margin-left: 100px;
+    margin-top:20px;
+    margin-bottom:20px
+    
+
+}
+.banner-descreption button{
+    background-color: #E02C6D;
+    padding:10px 20px;
+    border-radius: 15px;
+    font-size:20px;
+    color: white;
+    border: none;
+    
+
+}
+.card{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr)
+}
+.product img{
+    width: 250px;
+    
+}
+.product-desc{
+    color: #FB8201;
+    font-size:12px;
+}
+
+.product-desc h1{
+    color: #18191F;
+    margin-bottom:0;
+}
+.product-desc p{
+    color: #94949E
+}
+.another-photo{ 
+   padding-left:500px;
+    font-size:20px;
+    margin-bottom:30px;
+    
+    
+}
+.another-photo a{
+    color: #E02C6D;
+    float:right;
+    border:none;
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+    background-color: #0A0826;
+    margin: 0 auto;
+    text-align: center;
+    color: #ffff;
+    height: 300px;
+}
+.footer-descreption{
+    padding-top: 30px;
+}
+.footer-descreption i{
+    padding-right: 10px;
+}
